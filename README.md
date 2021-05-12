@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on webapplications and Networking .
 - :space_invader: I’m looking forward to contribute to **Open Source Projects**.
--  :email:  How to reach me **josph.jose@tutanota.com**
+-  :email:  How to reach me **joseph.jose@tutanota.com**
 
 
 <p align="center">

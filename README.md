@@ -2,7 +2,9 @@
 
 
  I'm JOSEPH JOSE
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Fullstack+Developer;FOSS+Enthusiast;&center=true&width=380&height=45"></a>
+</p>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/josephjosedev)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/josephjosedev)

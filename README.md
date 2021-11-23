@@ -48,6 +48,16 @@
 
 
  ![snakegif](https://github.com/josephjosedev/josephjosedev/blob/output/github-contribution-grid-snake.gif)
+ 
+ <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
+ 
+ <p align="center">
+ <a href="https://twitter.com/josephjose097"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
+ <a href="https://mastodon.social/web/@josephjose"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/953px-Mastodon_Logotype_%28Simple%29.svg.png" width="25"></img></a>&nbsp;&nbsp;
+
+
+  
+</p>
 
 
 

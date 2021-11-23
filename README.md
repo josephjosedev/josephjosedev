@@ -12,8 +12,8 @@
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
 
-- 🔭 I’m currently focus on  Open Source Projects .
-- :space_invader: I’m looking forward to contribute to **Open Source Projects**.
+- 🔭 I’m currently working on  Open Source Projects .
+<!-- - :space_invader: I’m looking forward to contribute to **Open Source Projects**. -->
 -  :email:  How to reach me **joseph.jose@tutanota.com**
 
 

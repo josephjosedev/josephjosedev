@@ -1,7 +1,6 @@
-
-
-
-Hi, I'm **JOSEPH JOSE**  Great to see you here! 
+Hi, I'm **JOSEPH JOSE**  Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<p>
+I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiastand  an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</P>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Fullstack+Developer;FOSS+Enthusiast;&center=true&width=380&height=45"></a>
 </p>
@@ -10,12 +9,6 @@ Hi, I'm **JOSEPH JOSE**  Great to see you here!
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/josephjosedev)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
-
-- 🔭 I’m currently working on  Open Source Projects .
-<!-- - :space_invader: I’m looking forward to contribute to **Open Source Projects**. -->
--  :email:  How to reach me **joseph.jose@tutanota.com**
-
 
 <p align="center">
 <img 

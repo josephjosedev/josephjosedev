@@ -18,7 +18,8 @@
 
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
 </p>
 
 ### My Skills 🚀
@@ -43,8 +44,8 @@
 
 
 
-
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true" /></p>
+<!-- 
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true" /></p> -->
 
 
  ![snakegif](https://github.com/josephjosedev/josephjosedev/blob/output/github-contribution-grid-snake.gif)

@@ -14,13 +14,14 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
  ## 📈 Statistics
 <p align="center">
 	
-	
-	
-<p align="center">
-	
 <img src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=josephjosedev&theme=tokyonight" />
+	
 </p>
+	
+
+	
+
 
 ## ⚡ Technologies
 

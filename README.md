@@ -70,6 +70,11 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 ![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 
 
+# Recent Activity
+
+<!--START_SECTION:activity-->
+
+
 
 <!-- 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true" /></p> -->

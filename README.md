@@ -1,6 +1,6 @@
 Hi, I'm **JOSEPH JOSE**  Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 <p>
-I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiastand  an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</P>
+I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiast and an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</P>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Fullstack+Developer;FOSS+Enthusiast;&center=true&width=380&height=45"></a>
 </p>
@@ -9,7 +9,9 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/josephjosedev)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-
+ [![Karuna's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
+<p align="center">
+	
 <p align="center">
 <img 
    src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
@@ -61,7 +63,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 ### Operating Systems:
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=white&style=for-the-badge)
 
 
 

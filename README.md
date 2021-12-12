@@ -16,6 +16,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 	
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=josephjosedev&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephjosedev&theme=algolia"/>
 	
 </p>
 	
@@ -95,7 +96,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
  <a href="https://twitter.com/josephjose097"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
  <a href="https://mastodon.social/web/@josephjose"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/953px-Mastodon_Logotype_%28Simple%29.svg.png" width="25"></img></a>&nbsp;&nbsp;
 <a href="mailto:joseph.jose@tutanota.com"><img src="https://senghourprinting.com/wp-content/uploads/2021/06/free-mail-icon-1008-thumb.png" width="25"></img></a>&nbsp;&nbsp;
-  
+   <a href="https://twitter.com/josephjose097"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp;
 </p>
 
 

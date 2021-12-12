@@ -73,6 +73,12 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 # Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#8](https://github.com/varnamproject/varnamproject.github.io/issues/8) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
+2. 💪 Opened PR [#7](https://github.com/varnamproject/varnamproject.github.io/pull/7) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
+3. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+4. 💪 Opened PR [#316](https://github.com/rustdesk/rustdesk/pull/316) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+5. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+<!--END_SECTION:activity-->
 
 
 

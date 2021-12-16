@@ -21,9 +21,6 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 </p>
 	
 
-	
-
-
 ## ⚡ Technologies
 
 ### Language :

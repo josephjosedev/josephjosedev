@@ -9,9 +9,8 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/josephjosedev)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
- 
- ## ⚡ Technologies
+
+## ⚡ Technologies
 
 ### Language :
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -58,6 +57,9 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
+ [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
+ 
+ 
  
  ## 📈 Statistics
 <p align="center">

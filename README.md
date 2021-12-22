@@ -11,17 +11,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
  
- ## 📈 Statistics
-<p align="center">
-	
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=josephjosedev&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephjosedev&theme=algolia"/>
-	
-</p>
-	
-
-## ⚡ Technologies
+ ## ⚡ Technologies
 
 ### Language :
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
@@ -67,6 +57,18 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+ 
+ ## 📈 Statistics
+<p align="center">
+	
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=josephjosedev&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephjosedev&theme=algolia"/>
+	
+</p>
+	
+
 
 
 # Recent Activity

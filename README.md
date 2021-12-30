@@ -1,4 +1,5 @@
 Hi, I'm **JOSEPH JOSE**  Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 <p>
 I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiast and an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.</P>
 <p align="center">

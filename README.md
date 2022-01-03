@@ -14,7 +14,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 
 ## ⚡ Technologies
 
-### Language :
+### Languages :
 <!-- ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c) -->
@@ -24,7 +24,7 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 ![php](https://img.shields.io/badge/php-black.svg?\&style=flat-square\&logo=PHP\&logoColor=777BB4)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### Libraries & Framework :
+### Libraries & Frameworks :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)

@@ -78,11 +78,11 @@ I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full 
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
-2. 🗣 Commented on [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
-3. ❗️ Opened issue [#8](https://github.com/varnamproject/varnamproject.github.io/issues/8) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
-4. 💪 Opened PR [#7](https://github.com/varnamproject/varnamproject.github.io/pull/7) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
-5. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+1. 💪 Opened PR [#9](https://github.com/opendatakerala/map.opendatakerala.org/pull/9) in [opendatakerala/map.opendatakerala.org](https://github.com/opendatakerala/map.opendatakerala.org)
+2. ❗️ Closed issue [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
+3. 🗣 Commented on [#1](https://github.com/josephjosedev/malayalam-computing/issues/1) in [josephjosedev/malayalam-computing](https://github.com/josephjosedev/malayalam-computing)
+4. ❗️ Opened issue [#8](https://github.com/varnamproject/varnamproject.github.io/issues/8) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
+5. 💪 Opened PR [#7](https://github.com/varnamproject/varnamproject.github.io/pull/7) in [varnamproject/varnamproject.github.io](https://github.com/varnamproject/varnamproject.github.io)
 <!--END_SECTION:activity-->
 
 

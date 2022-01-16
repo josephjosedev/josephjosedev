@@ -1,7 +1,9 @@
 Hi, I'm **JOSEPH JOSE**   <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p>
-I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiast and an open-source advocate. I am always open to collaborating on projects and innovative ideas.</P>
+	
+**I am Joseph Jose, Currently working as Technical Support Engineer . I am a Full Stack Developer,FOSS Enthusiast and an open-source advocate. I am always open to collaborating on projects and innovative ideas.**
+</P>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Open+Source+Contributor;Fullstack+Developer;FOSS+Enthusiast;&center=true&width=380&height=45"></a>

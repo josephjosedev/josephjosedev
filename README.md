@@ -14,9 +14,9 @@ Hi, I'm **JOSEPH JOSE**   <img src="https://raw.githubusercontent.com/aemmadi/ae
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-🔭 I’m currently exploring the world of Open Source. <br/>
+🔭 **I’m currently exploring the world of Open Source.** <br/>
 
-💻 I'm currently contributing on [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/)
+💻 **I'm currently contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/)
 
 ## ⚡ Technologies
 

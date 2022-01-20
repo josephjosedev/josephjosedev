@@ -85,11 +85,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#376](https://github.com/rustdesk/rustdesk/issues/376) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-2. 💪 Opened PR [#34528](https://github.com/gatsbyjs/gatsby/pull/34528) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. 💪 Opened PR [#1848](https://github.com/ToolJet/ToolJet/pull/1848) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-4. 💪 Opened PR [#985](https://github.com/mattermost/mattermost-developer-documentation/pull/985) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-5. 💪 Opened PR [#5371](https://github.com/mattermost/docs/pull/5371) in [mattermost/docs](https://github.com/mattermost/docs)
+1. 🗣 Commented on [#376](https://github.com/rustdesk/rustdesk/issues/376) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+2. ❗️ Opened issue [#376](https://github.com/rustdesk/rustdesk/issues/376) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+3. 💪 Opened PR [#34528](https://github.com/gatsbyjs/gatsby/pull/34528) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. 💪 Opened PR [#1848](https://github.com/ToolJet/ToolJet/pull/1848) in [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+5. 💪 Opened PR [#985](https://github.com/mattermost/mattermost-developer-documentation/pull/985) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 

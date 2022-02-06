@@ -17,7 +17,7 @@
 🔭 **I’m currently exploring the world of Open Source.** <br/>
 
 💻 **I'm currently contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)
-- **GitLab’s Q4 2022 Hackathon Winner** [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
+🔭**GitLab’s Q4 2022 Hackathon Winner** [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
 
 ## ⚡ Technologies
 

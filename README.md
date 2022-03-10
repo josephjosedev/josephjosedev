@@ -87,11 +87,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35067](https://github.com/gatsbyjs/gatsby/pull/35067) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-2. 💪 Opened PR [#35045](https://github.com/gatsbyjs/gatsby/pull/35045) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
-3. 💪 Opened PR [#2](https://github.com/josephjosedev/gatsby/pull/2) in [josephjosedev/gatsby](https://github.com/josephjosedev/gatsby)
-4. 🎉 Merged PR [#1](https://github.com/josephjosedev/gatsby/pull/1) in [josephjosedev/gatsby](https://github.com/josephjosedev/gatsby)
-5. 💪 Opened PR [#1](https://github.com/josephjosedev/gatsby/pull/1) in [josephjosedev/gatsby](https://github.com/josephjosedev/gatsby)
+1. 💪 Opened PR [#35100](https://github.com/gatsbyjs/gatsby/pull/35100) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+2. 💪 Opened PR [#35067](https://github.com/gatsbyjs/gatsby/pull/35067) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+3. 💪 Opened PR [#35045](https://github.com/gatsbyjs/gatsby/pull/35045) in [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby)
+4. 💪 Opened PR [#2](https://github.com/josephjosedev/gatsby/pull/2) in [josephjosedev/gatsby](https://github.com/josephjosedev/gatsby)
+5. 🎉 Merged PR [#1](https://github.com/josephjosedev/gatsby/pull/1) in [josephjosedev/gatsby](https://github.com/josephjosedev/gatsby)
 <!--END_SECTION:activity-->
 
 

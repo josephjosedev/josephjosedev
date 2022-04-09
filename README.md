@@ -18,7 +18,9 @@
 
 💻 **I'm currently contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)
 
-:sunglasses:  **GitLab’s Q4 2021 Hackathon Winner** [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
+:sunglasses:Won prize in  ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202021%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
+
+:sunglasses:Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051)
 
 ## ⚡ Technologies
 

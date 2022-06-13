@@ -89,11 +89,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
-2. 💪 Opened PR [#934](https://github.com/digit-egov/core-services/pull/934) in [digit-egov/core-services](https://github.com/digit-egov/core-services)
-3. 💪 Opened PR [#39](https://github.com/egovernments/DIGIT-OSS/pull/39) in [egovernments/DIGIT-OSS](https://github.com/egovernments/DIGIT-OSS)
-4. 💪 Opened PR [#933](https://github.com/digit-egov/core-services/pull/933) in [digit-egov/core-services](https://github.com/digit-egov/core-services)
-5. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+1. 🗣 Commented on [#8](https://github.com/rustdesk/doc.rustdesk.com/issues/8) in [rustdesk/doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com)
+2. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+3. 💪 Opened PR [#934](https://github.com/digit-egov/core-services/pull/934) in [digit-egov/core-services](https://github.com/digit-egov/core-services)
+4. 💪 Opened PR [#39](https://github.com/egovernments/DIGIT-OSS/pull/39) in [egovernments/DIGIT-OSS](https://github.com/egovernments/DIGIT-OSS)
+5. 💪 Opened PR [#933](https://github.com/digit-egov/core-services/pull/933) in [digit-egov/core-services](https://github.com/digit-egov/core-services)
 <!--END_SECTION:activity-->
 
 

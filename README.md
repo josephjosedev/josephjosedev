@@ -68,9 +68,9 @@
  -->
 
 ### Operating Systems:
-
-![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![LINUX](https://img.shields.io/badge/linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
+![MAC](https://img.shields.io/badge/MAC-white?logo=Apple&logoColor=black&style=for-the-badge)
 
  [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
  

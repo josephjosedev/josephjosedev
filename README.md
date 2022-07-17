@@ -91,11 +91,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#856](https://github.com/novuhq/novu/pull/856) in [novuhq/novu](https://github.com/novuhq/novu)
-2. ❗️ Opened issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
-3. ❗️ Opened issue [#7534](https://github.com/simple-icons/simple-icons/issues/7534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 🗣 Commented on [#8](https://github.com/rustdesk/doc.rustdesk.com/issues/8) in [rustdesk/doc.rustdesk.com](https://github.com/rustdesk/doc.rustdesk.com)
-5. 🗣 Commented on [#314](https://github.com/rustdesk/rustdesk/issues/314) in [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)
+1. 🗣 Commented on [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+2. ❗️ Closed issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+3. 💪 Opened PR [#856](https://github.com/novuhq/novu/pull/856) in [novuhq/novu](https://github.com/novuhq/novu)
+4. ❗️ Opened issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+5. ❗️ Opened issue [#7534](https://github.com/simple-icons/simple-icons/issues/7534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 

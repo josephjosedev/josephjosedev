@@ -93,11 +93,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/hasthamalp/learn-coding/pull/63) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
-2. 🗣 Commented on [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
-3. ❗️ Closed issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
-4. 💪 Opened PR [#856](https://github.com/novuhq/novu/pull/856) in [novuhq/novu](https://github.com/novuhq/novu)
-5. ❗️ Opened issue [#7534](https://github.com/simple-icons/simple-icons/issues/7534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+1. 💪 Opened PR [#68](https://github.com/hasthamalp/learn-coding/pull/68) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+2. 💪 Opened PR [#67](https://github.com/hasthamalp/learn-coding/pull/67) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+3. 💪 Opened PR [#66](https://github.com/hasthamalp/learn-coding/pull/66) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+4. 💪 Opened PR [#63](https://github.com/hasthamalp/learn-coding/pull/63) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+5. 🗣 Commented on [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
 <!--END_SECTION:activity-->
 
 

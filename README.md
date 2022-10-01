@@ -93,10 +93,10 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
-2. ❗️ Closed issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
-3. 💪 Opened PR [#856](https://github.com/novuhq/novu/pull/856) in [novuhq/novu](https://github.com/novuhq/novu)
-4. ❗️ Opened issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+1. 💪 Opened PR [#63](https://github.com/hasthamalp/learn-coding/pull/63) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+2. 🗣 Commented on [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+3. ❗️ Closed issue [#5](https://github.com/raghavdhingra/Web-OS/issues/5) in [raghavdhingra/Web-OS](https://github.com/raghavdhingra/Web-OS)
+4. 💪 Opened PR [#856](https://github.com/novuhq/novu/pull/856) in [novuhq/novu](https://github.com/novuhq/novu)
 5. ❗️ Opened issue [#7534](https://github.com/simple-icons/simple-icons/issues/7534) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 

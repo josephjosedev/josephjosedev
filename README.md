@@ -93,11 +93,11 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1138](https://github.com/mattermost/mattermost-developer-documentation/pull/1138) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-2. 🗣 Commented on [#1133](https://github.com/mattermost/mattermost-developer-documentation/issues/1133) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+1. 🗣 Commented on [#1138](https://github.com/mattermost/mattermost-developer-documentation/issues/1138) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+2. 💪 Opened PR [#1138](https://github.com/mattermost/mattermost-developer-documentation/pull/1138) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 3. 🗣 Commented on [#1133](https://github.com/mattermost/mattermost-developer-documentation/issues/1133) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-4. 💪 Opened PR [#1133](https://github.com/mattermost/mattermost-developer-documentation/pull/1133) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
-5. 💪 Opened PR [#68](https://github.com/hasthamalp/learn-coding/pull/68) in [hasthamalp/learn-coding](https://github.com/hasthamalp/learn-coding)
+4. 🗣 Commented on [#1133](https://github.com/mattermost/mattermost-developer-documentation/issues/1133) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
+5. 💪 Opened PR [#1133](https://github.com/mattermost/mattermost-developer-documentation/pull/1133) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 
 

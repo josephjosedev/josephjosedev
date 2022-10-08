@@ -18,13 +18,13 @@
 
 💻 **I'm currently contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)
 
-:sunglasses: Won participation prize in  ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202021%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
+:trophy: Won participation prize in  ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202021%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
 
-:sunglasses: Won participation prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051)
+:trophy: Won participation prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051)
 
-:sunglasses: Won 2<sup>nd</sup> prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q2%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q2-2022-hackathon-winners/71383)
+:2nd_place_medal: Won 2<sup>nd</sup> prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q2%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q2-2022-hackathon-winners/71383)
 
-:sunglasses: Won 2<sup>nd</sup> prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q3%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q3-hackathon-winners/75438)
+:2nd_place_medal: Won 2<sup>nd</sup> prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q3%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=FCA121) [pleas check it out](https://forum.gitlab.com/t/announcing-gitlabs-q3-hackathon-winners/75438)
 
 ## ⚡ Technologies
 

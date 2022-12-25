@@ -74,8 +74,8 @@
 ![Windows](https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge)
 ![MAC](https://img.shields.io/badge/MAC-white?logo=Apple&logoColor=black&style=for-the-badge)
 
- [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
- 
+<!--  [![Joseph's github activity graph](https://activity-graph.herokuapp.com/graph?username=josephjosedev&theme=xcode)](https://git.io/starlightknown)
+  -->
  
  
  ## 📈 Statistics

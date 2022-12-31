@@ -14,9 +14,9 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
 
-🔭 **I’m currently exploring the world of Open Source and Networking :desktop_computer:.** <br/>
+<!-- 🔭 **I’m currently exploring the world of Open Source and Networking :desktop_computer:.** <br/> -->
 
-💻 **I'm currently contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)
+💻 **contributing on** [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399)
 
 :trophy: Won participation prize in  ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202021%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)
 

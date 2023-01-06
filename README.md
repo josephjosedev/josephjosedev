@@ -78,14 +78,14 @@
   -->
  
  
- ## 📈 Statistics
+<!--  ## 📈 Statistics
 <p align="center">
 	
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true&theme=tokyonight"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=josephjosedev&theme=tokyonight" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephjosedev&theme=algolia"/>
 	
-</p>
+</p> -->
 	
 
 

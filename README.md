@@ -104,9 +104,9 @@
 
 <!-- 
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=josephjosedev&show_icons=true" /></p> -->
+ 
 
 
- ![snakegif](https://github.com/josephjosedev/josephjosedev/blob/output/github-contribution-grid-snake.gif)
  
  <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
  

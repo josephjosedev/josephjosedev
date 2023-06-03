@@ -28,7 +28,7 @@
 
 :trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-q4-2022-hackathons-winers/80444)
 
-:trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20FYQ124%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-q4-2022-hackathons-winers/80444)
+:trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20FY%20Q1%2024%20%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-q4-2022-hackathons-winers/80444)
 
 
 

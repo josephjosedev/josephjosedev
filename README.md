@@ -119,7 +119,7 @@
  <p align="center"> 😃 I would love to connect with you, so please do not hesitate to connect with me on below handles.👇</p>
  
  <p align="center">
- <a href="https://twitter.com/josephjose097"><img src="https://api.iconify.design/logos:twitter.svg" width="25"></img></a>&nbsp;&nbsp;
+ <a href="https://twitter.com/josephjose097"><img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638258077460000000" width="25"></img></a>&nbsp;&nbsp;
  <a href="https://mastodon.social/web/@josephjose"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/953px-Mastodon_Logotype_%28Simple%29.svg.png" width="25"></img></a>&nbsp;&nbsp;
 <a href="mailto:joseph.jose@tutanota.com"><img src="https://img.icons8.com/fluency/344/apple-mail.png" width="25"></img></a>&nbsp;&nbsp;
 <a href="https://gitlab.com/josephjose"><img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-svg-vector.svg" width="25"></img></a>&nbsp;&nbsp;

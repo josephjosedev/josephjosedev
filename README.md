@@ -2,7 +2,7 @@
 
 <p>
 	
-**I am Joseph Jose, Currently Working as Technical Support Engineer :man_technologist:. I am a Full Stack Developer,FOSS Enthusiast and an Open Source Advocate. I am always open to collaborating and contributing on Open source projects .**
+**I am Joseph Jose, Currently Working as Technical Support Engineer :man_technologist:. I am a Full Stack Developer,FOSS Enthusiast and an Open Source Contributor.**
 </P>
 
 <p align="center">

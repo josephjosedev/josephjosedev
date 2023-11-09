@@ -28,6 +28,9 @@
 
 :2nd_place_medal: Won 2<sup>nd</sup> prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q2%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q2-2022-hackathon-winners/71383)
 
+:trophy: Won  prize in ![Gitlab](https://img.shields.io/badge/GitLab%20Q1%202022%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q1-2022-hackathons-winners/68051)
+
+
 
 
 :trophy: Won  prize in  ![Gitlab](https://img.shields.io/badge/GitLab%20Q4%202021%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-gitlabs-q4-2022-hackathon-winners/65048)

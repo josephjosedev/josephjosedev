@@ -18,6 +18,8 @@
 
 💻 **collaborating and contributing on** ![Gitlab](https://img.shields.io/badge/GitLab-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26)             [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399) 
 
+:trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20December%202023%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-the-december-2023-hackathon-results/98652)
+
 :trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20October%20%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-the-october-2023-hackathon-results/95357)
 
 :trophy: Won prize in ![Gitlab](https://img.shields.io/badge/GitLab%20FY%2024%20Q2%20%20Hackathon’s-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26) [please check it out](https://forum.gitlab.com/t/announcing-the-fy24-q2-hackathon-results/91342)

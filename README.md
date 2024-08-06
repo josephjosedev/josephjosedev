@@ -120,7 +120,7 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24949](https://github.com/mattermost/mattermost/pull/24949#issuecomment-1775686576) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
+1. ❗ Opened issue [#29](https://github.com/opendatakerala/map-kerala/issues/29) in [opendatakerala/map-kerala](https://github.com/opendatakerala/map-kerala)
 2. 🗣 Commented on [#24949](https://github.com/mattermost/mattermost/pull/24949#issuecomment-1775321671) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 3. 🗣 Commented on [#24949](https://github.com/mattermost/mattermost/pull/24949#issuecomment-1773806545) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
 4. 💪 Opened PR [#1](https://github.com/jaseemkool/jaseem/pull/1) in [jaseemkool/jaseem](https://github.com/jaseemkool/jaseem)

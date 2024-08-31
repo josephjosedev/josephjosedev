@@ -120,10 +120,10 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#46](https://github.com/opendatakerala/map.opendatakerala.org/issues/46) in [opendatakerala/map.opendatakerala.org](https://github.com/opendatakerala/map.opendatakerala.org)
-2. ❗ Opened issue [#29](https://github.com/opendatakerala/map-kerala/issues/29) in [opendatakerala/map-kerala](https://github.com/opendatakerala/map-kerala)
-3. 🗣 Commented on [#24949](https://github.com/mattermost/mattermost/pull/24949#issuecomment-1773806545) in [mattermost/mattermost](https://github.com/mattermost/mattermost)
-4. 💪 Opened PR [#1](https://github.com/jaseemkool/jaseem/pull/1) in [jaseemkool/jaseem](https://github.com/jaseemkool/jaseem)
+1. 💪 Opened PR [#2](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam/pull/2) in [Wikimedians-of-Kerala/wiki-loves-onam](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam)
+2. 💪 Opened PR [#1](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam/pull/1) in [Wikimedians-of-Kerala/wiki-loves-onam](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam)
+3. ❗ Opened issue [#46](https://github.com/opendatakerala/map.opendatakerala.org/issues/46) in [opendatakerala/map.opendatakerala.org](https://github.com/opendatakerala/map.opendatakerala.org)
+4. ❗ Opened issue [#29](https://github.com/opendatakerala/map-kerala/issues/29) in [opendatakerala/map-kerala](https://github.com/opendatakerala/map-kerala)
 5. 🗣 Commented on [#1153](https://github.com/mattermost/mattermost-developer-documentation/issues/1153) in [mattermost/mattermost-developer-documentation](https://github.com/mattermost/mattermost-developer-documentation)
 <!--END_SECTION:activity-->
 

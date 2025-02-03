@@ -124,8 +124,8 @@
 # Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
-2. 💪 Opened PR [#2](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam/pull/2) in [Wikimedians-of-Kerala/wiki-loves-onam](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam)
+1. 💪 Opened PR [#2](https://github.com/varghesejose2020/hugo-website-hosting/pull/2) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
+2. 💪 Opened PR [#1](https://github.com/varghesejose2020/hugo-website-hosting/pull/1) in [varghesejose2020/hugo-website-hosting](https://github.com/varghesejose2020/hugo-website-hosting)
 3. 💪 Opened PR [#1](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam/pull/1) in [Wikimedians-of-Kerala/wiki-loves-onam](https://github.com/Wikimedians-of-Kerala/wiki-loves-onam)
 4. ❗ Opened issue [#46](https://github.com/opendatakerala/map.opendatakerala.org/issues/46) in [opendatakerala/map.opendatakerala.org](https://github.com/opendatakerala/map.opendatakerala.org)
 5. ❗ Opened issue [#29](https://github.com/opendatakerala/map-kerala/issues/29) in [opendatakerala/map-kerala](https://github.com/opendatakerala/map-kerala)

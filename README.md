@@ -13,7 +13,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/josephjosedev)
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=josephjosedev&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <!-- <img alt="Last Commit" src="https://img.shields.io/github/last-commit/josephjosedev/josephjosedev?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"> -->
-
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/josephjose/banner.svg)
 <!-- 🔭 **I’m currently exploring the world of Open Source and Networking :desktop_computer:.** <br/> -->
 
 💻 **collaborating and contributing on** ![Gitlab](https://img.shields.io/badge/GitLab-120078.svg?\&style=plastic\&logo=gitlab\&logoColor=#FC6D26)             [![Mattermost](https://img.shields.io/badge/Mattermost-navy?\&style=plastic\&logo=mattermost\&logoColor=0058CC)](https://mattermost.com/) ![Gatsby](https://img.shields.io/badge/Gatsby-navy?\&style=plastic\&logo=gatsby\&logoColor=663399) 
